@@ -1,7 +1,7 @@
 ### Olá, Marcos here 👋
 
 - 🌱 Estou atualmente estudando JAVA e banco de dados com MySQL.
-- 📘 Cursando o 2° semestre de Análise e Desenvolvimento de Sistemas pela Uninter.
+- 📘 Cursando o 3° semestre de Análise e Desenvolvimento de Sistemas pela Uninter.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
